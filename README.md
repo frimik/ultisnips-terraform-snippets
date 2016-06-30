@@ -8,10 +8,10 @@ This is vim snippets for [Terraform](//terraform.io/) inspired by [serverspec-sn
 Install
 ---
 
-### Vim-Plug
+### Vundle
 
 ``` vim
-Plug 'cwood/ultisnips-terraform-snippets'
+Plugin 'frimik/ultisnips-terraform-snippets'
 ```
 
 ### Usage
@@ -24,8 +24,7 @@ open *.tf files and set filetype `terraform`
 
 or terraform plugins:
 
-- https://github.com/markcornick/vim-terraform
-- https://github.com/bkad/vim-terraform
+- https://github.com/hashivim/vim-terraform
 
 ## License
 
